@@ -1,2 +1,2 @@
 # unity-rts
-First 
+First attempt at mobile RTS using Unity.
