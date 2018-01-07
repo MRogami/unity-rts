@@ -13,7 +13,7 @@ public class CameraController : MonoBehaviour {
 
 	public float pitch = 1f;
 
-	private float currentZoom = 10f;
+	private float currentZoom = 13f;
 
 	void Update ()
 	{

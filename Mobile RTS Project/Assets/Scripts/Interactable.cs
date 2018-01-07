@@ -12,7 +12,7 @@ public class Interactable : MonoBehaviour {
 	public virtual void Interact() {
 		// overwrite to define interaction
 
-		Debug.Log ("Interaction!");
+		Debug.Log ("Interaction with "+gameObject.name);
 		hasInteracted = true;
 	}
 
